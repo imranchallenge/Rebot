@@ -3,3 +3,9 @@
 bin/
 packages/
 obj/
+*.config
+Rebot/.vs/Rebot/v15/.suo
+Rebot/.vs/Rebot/v15/Server/sqlite3/db.lock
+Rebot/.vs/Rebot/v15/Server/sqlite3/storage.ide
+Rebot/.vs/Rebot/v15/Server/sqlite3/storage.ide-shm
+Rebot/.vs/Rebot/v15/Server/sqlite3/storage.ide-wal
